@@ -1,0 +1,46 @@
+
+name:
+  first: 趙
+  last: 子嘉
+
+position: 實習生
+
+contacts:
+  phone: 0905782248
+  email: kerryw9110@gmail.com
+  linkedIn: non
+
+profile: 我是中原大學資訊管理學系的大四學生，熱愛探究資訊科技領域的挑戰。在過去的學業歷程中，我不僅擁有堅實的資訊管理知識，還積極參與校內外的資訊科技競賽和專案，培養了我的解難能力和團隊協作技能。
+
+skills:
+- "Java"
+- "HTML"
+- "CSS"
+- "mySQL"
+- "C++"
+- "JavaScript"
+
+experience:
+- workPosition: 工讀
+  workPeriod: 2019 - 2021
+  companyName: 興儒補習班
+  description: 工作內容為輔導學生，這份經驗不僅鍛煉了我的耐心，也讓我更加細心和關心學生的需求。這份經歷不僅僅是一份補習工作，更是一個培養耐心、細心和溝通能力的寶貴機會。這些能力對於資訊管理專業的實習生涯將會是一個巨大的優勢，使我能夠更好地應對挑戰，並在團隊中發揮積極作用。
+
+- workPosition: 第三名
+  workPeriod: 2023
+  companyName: 人工智慧與大數據創意競賽
+  description: 在中原大學人工智慧與大數據創意競賽榮獲第三名的成績，是我學習旅程中的一個重要里程碑。這項競賽不僅考驗了我在人工智慧和大數據領域的知識，也深刻教會了我團隊合作和自主學習的重要性。
+
+- workPosition: 佳作
+  workPeriod: 2023
+  companyName: 解決未來問題能力競賽
+  description: 這次競賽經驗中我意識到，未來的世界充滿了各種挑戰和機遇，我需要具備創新思維和不斷學習的能力，才能應對未來的挑戰。這次競賽讓我更加堅信，持續學習、團隊合作和創造力是我在未來職業生涯中取得成功的關鍵。
+
+education:
+- degreeTitle: 中原大學
+  institutionName: 資訊管理學系
+  studyDirection: 就讀中
+
+- degreeTitle: 英語能力
+  institutionName: 多益成績
+  studyDirection: 820

@@ -1,0 +1,48 @@
+/* tailwind.css */
+
+/* 导入 Tailwind CSS 样式 */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* 自定义样式 */
+/* 在这里可以添加自定义的 CSS 样式规则 */
+.body{
+    size: 100%;
+}
+.resume {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: left; /* 调整整体内容左对齐 */
+  background-color: #f8f8f8;
+  display: flex; /* 使用 Flex 布局，使头像和内容排列在一行 */
+  align-items: center; /* 垂直居中对齐 */
+}
+
+.avatar {
+  flex: 1; /* 头像占据可用空间的一部分 */
+  padding: 10px; /* 调整头像与内容的间距 */
+}
+
+.avatar img {
+  max-width: 100px; /* 控制头像的最大宽度 */
+  border-radius: 50%; /* 使头像圆形 */
+}
+
+.content {
+  flex: 3; /* 内容占据可用空间的三分之一 */
+}
+
+h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+p {
+  font-size: 16px;
+  margin: 5px 0;
+}
+
